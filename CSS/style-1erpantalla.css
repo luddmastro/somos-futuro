@@ -1,0 +1,184 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+/* footer*/
+footer{
+    width: 100%;
+    padding: 10px 0px;
+    background-color: #606C38;
+}
+.contenedortdfooter{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: first baseline;
+    max-width: 300px;
+    margin: auto;
+    margin-top: 10px;
+}
+.redessociales{
+    display: flex;
+    flex-direction: column;
+    padding: 40px;
+    font-family: 'Anton', sans-serif;
+font-family: 'Caprasimo', cursive;
+font-family: 'Merriweather', serif;
+font-family: 'Rajdhani', sans-serif;
+color: black;
+}
+.instagram{
+    width: 50px;
+}
+.twitter{
+    width: 50px;
+}
+.autor{
+    display: flex;
+    flex-direction: column;
+    padding: 40px;
+    font-family: 'Anton', sans-serif;
+font-family: 'Caprasimo', cursive;
+font-family: 'Merriweather', serif;
+font-family: 'Rajdhani', sans-serif;
+color: black;
+}
+.mensajefin{ 
+    display: flex;
+    flex-direction: column;
+    padding: 40px;
+    font-family: 'Anton', sans-serif;
+font-family: 'Caprasimo', cursive;
+font-family: 'Merriweather', serif;
+font-family: 'Rajdhani', sans-serif;
+color: black;
+}
+.mensajefinfoto{
+    width: 100px;
+}
+
+/* titulo y presentacion */
+
+
+.titulo{
+    font-family: 'Anton', sans-serif;
+    font-family: 'Caprasimo', cursive;
+    color: #BC9DC7;
+    text-align: center;
+    font-size: 500%;
+    padding-bottom: 2%;
+    padding-top: 2%
+}
+.colorTitulo{
+    color: #39107B;
+}
+.imagenini{
+    width: 300px;
+    position: relative; top: -100px; 
+    
+}
+.presentacion{
+display: flex;
+font-family: 'Anton', sans-serif;
+font-family: 'Caprasimo', cursive;
+font-family: 'Merriweather', serif;
+font-family: 'Rajdhani', sans-serif;
+color: black;
+padding-top: 2%
+}
+
+
+
+.imagenporq{
+    width: 20%;
+    position: relative; top: -100px; 
+}
+
+.porqsteam{
+    display: flex;
+    font-family: 'Anton', sans-serif;
+font-family: 'Caprasimo', cursive;
+font-family: 'Merriweather', serif;
+font-family: 'Rajdhani', sans-serif;
+color: black;
+padding-right: 3%;
+padding-left: 3%;
+
+}
+.techodecristal{
+     display: flex;  
+     font-family: 'Anton', sans-serif;
+font-family: 'Caprasimo', cursive;
+font-family: 'Merriweather', serif;
+font-family: 'Rajdhani', sans-serif;
+color: black;
+padding-top: 2%;
+padding-right: 3%;
+padding-left: 3%;
+}
+.cristaltecho{
+    width: 300px;
+}
+/* registro*/
+.imagenregis{
+    width: 120px;
+    left: 80px;
+    
+}
+.registrate{
+    display: flex;
+    flex-direction: column;
+    font-family: 'Anton', sans-serif;
+    font-family:  cursive;
+    color: black;
+}
+.registratetitulo{
+    display: flex;
+    text-align: center;
+    font-family: 'Anton', sans-serif;
+    font-family: 'Caprasimo', cursive;
+    color: black;
+    font-size: 200%;
+    padding-bottom: 1%;
+    padding-left: 5%;
+}
+.registro{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+  
+    padding-bottom: 5%;
+}
+.sombra {
+    -moz-box-shadow:    3px 3px 5px 6px  #BC9DC7;
+    -webkit-box-shadow: 3px 3px 5px 6px  #BC9DC7;
+    box-shadow:         3px 3px 5px 6px   #BC9DC7;
+  }
+/* menu*/
+.logofuturo{
+    width: 100px;
+}
+a{
+    text-decoration: none !important;
+}
+
+#barra{
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+    background-color: #BC9DC7;
+    align-items: center;
+   
+}
+nav{
+    display: flex; 
+    width: 70%;
+    justify-content: space-between;
+    font-family: cursive;
+}
+/* cuerpo*/
+body{ 
+    background-color:#D5BDAF ;
+}
+
+

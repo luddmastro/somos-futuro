@@ -1,0 +1,167 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+/* titulo,presentacion y cuerpo */
+.titulo {
+    font-family: 'Anton', sans-serif;
+    font-family: 'Caprasimo', cursive;
+    color: #BC9DC7;
+    text-align: center;
+    font-size: 500%;
+    padding-bottom: 2%;
+    padding-top: 2%
+}
+.colorTitulo{
+ color:   #39107B;
+}
+#presentacion{
+text-align: center;
+font-family: 'Anton', sans-serif;
+font-family: 'Caprasimo', cursive;
+font-family: 'Merriweather', serif;
+font-family: 'Rajdhani', sans-serif;
+color: black;
+font-size: 300%;
+padding-bottom: 2%;
+padding-top: 2%
+}
+
+body {
+    background-color:#D5BDAF ;
+}
+
+/* menu*/
+.logofuturo{
+    width: 100px;
+}
+a{
+    text-decoration: none !important;
+}
+
+#barra{
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+    background-color: #BC9DC7;
+    align-items: center;
+   
+}
+nav{
+    display: flex; 
+    width: 70%;
+    justify-content: space-between;
+    font-family: cursive;
+}
+/* unis y cursos */
+.opciones{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.cienciamoreno{
+    width: 1000px;
+}
+.cienciatext{
+    font-family: 'Anton', sans-serif;
+    font-family: 'Caprasimo', cursive;
+    color: black;
+}
+.tecnomoreno{
+    width: 1000px;
+}
+.tecnotext{
+    font-family: 'Anton', sans-serif;
+    font-family: 'Caprasimo', cursive;
+    color: black;
+}
+.ingefebrero{
+    width: 1000px;
+}
+.ingetext{
+    font-family: 'Anton', sans-serif;
+    font-family: 'Caprasimo', cursive;
+    color: black;
+}
+.artefebrero{
+    width: 1000px;
+}
+.artetext{
+    font-family: 'Anton', sans-serif;
+    font-family: 'Caprasimo', cursive;
+    color: black; 
+}
+.mateuba{
+    width: 1000px;
+}
+.matetext{
+    font-family: 'Anton', sans-serif;
+    font-family: 'Caprasimo', cursive;
+    color: black;
+}
+.cursoschicas{
+    width: 1000px;
+}
+.chicastext{
+    font-family: 'Anton', sans-serif;
+    font-family: 'Caprasimo', cursive;
+    color: black;
+}
+
+
+/* footer*/
+footer{
+    width: 100%;
+    padding: 10px 0px;
+    background-color: #606C38;
+}
+.contenedortdfooter{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: first baseline;
+    max-width: 300px;
+    margin: auto;
+    margin-top: 10px;
+}
+.redessociales{
+    display: flex;
+    flex-direction: column;
+    padding: 40px;
+    font-family: 'Anton', sans-serif;
+font-family: 'Caprasimo', cursive;
+font-family: 'Merriweather', serif;
+font-family: 'Rajdhani', sans-serif;
+color: black;
+}
+.instagram{
+    width: 50px;
+}
+.twitter{
+    width: 50px;
+}
+.autor{
+    display: flex;
+    flex-direction: column;
+    padding: 40px;
+    font-family: 'Anton', sans-serif;
+font-family: 'Caprasimo', cursive;
+font-family: 'Merriweather', serif;
+font-family: 'Rajdhani', sans-serif;
+color: black;
+}
+.mensajefin{ 
+    display: flex;
+    flex-direction: column;
+    padding: 40px;
+    font-family: 'Anton', sans-serif;
+font-family: 'Caprasimo', cursive;
+font-family: 'Merriweather', serif;
+font-family: 'Rajdhani', sans-serif;
+color: black;
+}
+.mensajefinfoto{
+    width: 100px;
+}
