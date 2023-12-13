@@ -1,0 +1,1 @@
+Somos Futuro es una web que busca informar a las jovenes de Buenos Aires, interesadas en el mundo IT a buscar universidades cerca de sus zonas, y asi informarlas y ayudar a cerrar la brecha de genero.
